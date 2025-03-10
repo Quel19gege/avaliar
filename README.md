@@ -26,5 +26,12 @@ Este projeto é uma aplicação web responsiva destinada a coletar e analisar o 
   - Dashboard administrativo com gráficos e estatísticas.
   - Exportação de relatórios em formato CSV.
     Para executar este projeto localmente, siga os passos abaixo:
+    ## Instalação
 
+Para executar este projeto localmente, siga os passos abaixo:
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git  
 
